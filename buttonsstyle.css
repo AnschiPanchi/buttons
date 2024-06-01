@@ -1,0 +1,361 @@
+.button1{
+    height: 36px;
+    background-color: rgb(179, 12, 12);
+    color: white;
+    width: 110px;
+    margin-right: 15px;
+    border-radius: 3px;
+    border: none;
+    cursor:pointer;
+
+}  
+.button2{
+    background-color: white;
+    color: rgb(41, 118, 211);
+    border-style: solid;
+    border-color: rgb(41, 118, 211);
+    height: 36px;
+    width:62px;
+    margin-right: 15px;
+    cursor: pointer;
+} 
+.button3{
+    background-color: rgba(48, 114, 238, 0.808);
+    color: white;
+    border-radius: 19px;
+    height: 40px;
+    width:75px;
+    border-style: none;
+    font-weight:bold;
+    cursor: pointer;
+    
+    
+}
+
+.button1:hover{
+    /* background-color: rgb(207, 69, 69); */
+    opacity: 0.2;
+    transition: 0.5s;
+}
+.button2:hover{
+    background-color: rgba(48, 114, 238, 0.808);
+    color: white;
+    transition: 0.5s;
+}
+.button3:hover{
+    opacity: 0.85;
+    transition: 0.5s;
+    box-shadow: 5px 5px 1px rgba(0,0,0,0.1);
+    transition: box-shadow 0.2s;
+    
+}
+.box{
+    margin-top: 90px;
+    margin-left: 100px;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: rgba(255, 255, 255, 0.808);
+    display: inline-block;
+}
+.searchbox{
+    width: 300px;
+    height: 28px;
+    border-style: solid;
+    border-radius: 2px;
+    
+}
+.terms{
+    font-size: 13px;
+    width: 349px;
+}
+.agreebutton{
+    width: 300px;
+    height: 35px;
+    border-radius: 15px;
+    background-color: rgba(23, 84, 197, 0.822);
+    color: white;
+    border-style: none;
+
+}
+.emailtext{
+    margin-bottom: 8px;
+    font-size: 15px;
+}
+
+.image{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+    
+   
+    
+}
+
+.twitterbox{
+    margin-top: 100px;
+    
+}
+
+.search{
+  font-size: 18px;
+  border: none;
+  width: 300px;
+  vertical-align: middle;
+   
+}
+.tweetbutton{
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+}
+
+.agreebutton:hover{
+    background-color: rgba(94, 94, 230, 0.74);
+    opacity: 0.5px;
+    cursor: pointer;
+    box-shadow: 5px 5px 1px rgba(0,0,0,0.1);
+
+}
+
+.tweetbutton:hover{
+    opacity: 0.85;
+    transition: 0.5s;
+    box-shadow: 5px 5px 1px rgba(0,0,0,0.1);
+    transition: box-shadow 0.2s;
+    cursor: pointer;
+}
+
+.ddiivv{
+    text-align: center;
+}
+
+
+   
+    
+img {
+    width: 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+  }
+  
+  input {
+    border: none;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.2);
+    margin-bottom: 30px;
+    
+  }
+  
+  .google-button {
+    background-color: rgb(245, 245, 245);
+    border: none;
+    font-size: 15px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+  }
+  
+  .search-button {
+    margin-right: 10px;
+    
+  }
+
+.ola{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 90px;
+}
+
+.heading{
+    font-size: 30px;
+    font-weight: 500;
+}
+.firstoption,.secondoption{
+    display: block;
+    height: 32px;
+    width: 280px;
+    padding-left: 15px;
+    background-color: rgb(235, 232, 232);
+    border-style: none;
+}
+
+.secondoption{
+    margin-top: 8px;
+    margin-bottom: 30px;
+}
+
+.requestbutton{
+    height: 37px;
+    width: 116px;
+    background-color: black;
+    color: white;
+}
+
+.otherbutton{
+    height: 37px;
+    width: 135px;
+    margin-left: 20px;
+    border-style: none;
+   
+}
+
+.picinfo{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.info{
+    display: inline-block;
+    height: 75.92px;
+    margin-top: 6px;
+    margin-left: 8px;
+    line-height: 21px;
+}
+
+.pic{
+    width: 60px;
+    border-radius: 30px;
+}
+
+.button-info{
+    display: inline-block;
+    height: 75.92px;
+    vertical-align: middle;
+    margin-top: 3px;
+    margin-left: 140px;
+   
+    
+    
+    
+}
+
+
+
+.name{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-weight: 700;
+}
+
+.title{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(96,96,96);
+    font-size: 14px;
+}
+
+.sub{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: rgb(96,96,96);
+    
+}
+
+.followbutton{
+    height: 28px;
+    padding-left: 8px;
+    padding-right: 8px;
+    background-color: rgb(91, 91, 235);
+    color: white;
+    border-style: none;
+    border-radius: 3px;
+}
+
+.maindiv{
+    vertical-align: top;
+
+}
+
+.cardbox{
+    border: solid gray 1px;
+    width: 20vw;
+    transition: 0.5s;
+    height: 75vh;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.2);
+
+
+    
+}
+
+/* .cardbox:hover{
+    width: 20vw;
+} */
+.cardimg{
+    width: 100%;
+}
+.cardimg img{
+   width: 96%;
+   background-size: contain;
+   height: 30vh;
+   margin: 5px auto;
+   margin-left: 5px;
+   border-radius: 10px;
+}
+
+.buttons button{
+  margin-top: 8px;
+  margin-right: 7px;
+  margin-left: 10px;
+  padding: 5px;
+  border-radius: 10px;
+  letter-spacing: 1px;
+  background-color: white;
+  color: gray;
+  border:solid rgb(194, 193, 193) 1px;
+}
+.cardcontent h1{
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 15px;
+}  
+
+.cardcontent h5{
+    color: gray;
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+    font-size: 15px;
+    margin-left: 15px;
+}
+
+.buttons2{
+    display: grid;
+    width: 100%;
+    justify-content: center;
+    height: 30px;
+    
+}
+
+.buttons2 button{
+    color: rgb(114, 114, 205);
+    background-color: rgb(222, 241, 248);
+    border-radius:15px ;
+    padding: 10px;
+    position: absolute;
+    left: 99px;
+    bottom: 10px;
+
+}
